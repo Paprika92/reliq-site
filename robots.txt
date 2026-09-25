@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reliq.studiopaprika.fr/sitemap.xml
