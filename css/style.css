@@ -196,7 +196,8 @@ a { color: var(--texte); }
   letter-spacing: 0.26em;
   text-transform: uppercase;
   color: var(--or);
-  cursor: default;
+  text-decoration: none;
+  cursor: pointer;
   user-select: none;
 }
 
